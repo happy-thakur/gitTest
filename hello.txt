@@ -2,5 +2,9 @@ This is first one..
 
 with master..
 now again changes have been made
+<<<<<<< HEAD
 
 hello
+=======
+this is b1
+>>>>>>> b1
